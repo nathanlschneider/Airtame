@@ -9,7 +9,7 @@ body {
 }
 
 body {
-    margin:auto;
+    margin: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -26,18 +26,15 @@ body {
 
 .picture {
     display: block;
-   width: 80%;
-   min-height:80%;
-  
-   margin: 2% auto;
-
+    width: 80%;
+    min-height: 80%;
+    margin: 2% auto;
 }
 
 .footerImg {
     opacity: .5;
     display: block;
-    max-width:80%;
-    height: auto; /* maintain aspect ratio*/
-    margin: auto; /*optional centering of image*/
-
+    max-width: 80%;
+    height: auto;
+    margin: auto;
 }
